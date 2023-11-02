@@ -5,9 +5,9 @@ im a passionate hobby Coder / Modder
 Steam Tool KoalaSleep (Closed Pre Alpha Stage): [Click me!](https://github.com/KOALAaufPILLEN/KoalaSleep)
 
 ## 💊 Social Media
-Steam: https://steamcommunity.com/id/koalaaufpillen <br>
-✖️ Not in Use ✖️ Twitch: https://www.twitch.tv/koalaaufpillen <br>
-✖️ Not in Use ✖️ Facebook: https://www.facebook.com/KOALAaufPILLENx/  <br>
-✖️ Not in Use ✖️ X (Twitter): https://twitter.com/KOALAaufPILLEN  <br>
-✖️ Not in Use ✖️ Youtube: https://www.youtube.com/koalaaufpillen <br>
-✖️ Not in Use ✖️ Instagram: https://www.instagram.com/koalaaufpillenx/
+Steam:                           https://steamcommunity.com/id/koalaaufpillen <br>
+✖️ Not in Use ✖️ Twitch:        https://www.twitch.tv/koalaaufpillen <br>
+✖️ Not in Use ✖️ Facebook:      https://www.facebook.com/KOALAaufPILLENx/  <br>
+✖️ Not in Use ✖️ X (Twitter):   https://twitter.com/KOALAaufPILLEN  <br>
+✖️ Not in Use ✖️ Youtube:       https://www.youtube.com/koalaaufpillen <br>
+✖️ Not in Use ✖️ Instagram:     https://www.instagram.com/koalaaufpillenx/
