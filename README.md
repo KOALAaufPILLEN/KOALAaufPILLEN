@@ -6,7 +6,7 @@ Steam Tool KoalaSleep (Closed Pre Alpha Stage): [Click me!](https://github.com/K
 
 ## 💊 Social Media
 Steam:                           https://steamcommunity.com/id/KOALAaufPILLEN <br>
-Website:                         https://www.KOALAaufPILLEN.de <br>
+Website:                         http://www.KOALAaufPILLEN.de <br>
 ✖️ Not in Use ✖️ Twitch:        https://www.twitch.tv/KOALAaufPILLEN <br>
 ✖️ Not in Use ✖️ Facebook:      https://www.facebook.com/KOALAaufPILLENx/  <br>
 ✖️ Not in Use ✖️ X (Twitter):   https://twitter.com/KOALAaufPILLEN  <br>
