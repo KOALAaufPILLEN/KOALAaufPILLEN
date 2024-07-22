@@ -20,4 +20,4 @@ Website:                         http://www.KOALAaufPILLEN.de <br>
 
 ## 💊 Spotify
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1166828714&width=700)](https://open.spotify.com/user/1166828714)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1166828714&width=875)](https://open.spotify.com/user/1166828714)
