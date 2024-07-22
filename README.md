@@ -16,4 +16,4 @@ Website:                         http://www.KOALAaufPILLEN.de <br>
 ✖️ Not in Use ✖️ Youtube:       https://www.youtube.com/KOALAaufPILLEN <br>
 ✖️ Not in Use ✖️ Instagram:     https://www.instagram.com/KOALAaufPILLENx/
 
-<img scr="https://camo.githubusercontent.com/cba2f9a2ae1c9d87f52855c3d269d3be9aca1d94d7f973c0e4076de04bcedb82/68747470733a2f2f736e616b656769746875622e70616765732e6465762f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667">
+![68747470733a2f2f736e616b656769746875622e70616765732e6465762f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667](https://github.com/user-attachments/assets/e0705dae-fd88-4a10-87e7-b9ab2c8f1cc9)
