@@ -2,27 +2,35 @@
 im a passionate hobby Coder / Modder
 
 ## 💊 Currently on hold
-Nothing
+🟣 Nothing
 
 ## 💊 Working on
-Steam Tool KoalaSleep (Closed Pre Alpha Stage): [Click me!](https://github.com/KOALAaufPILLEN/KoalaSleep)
+🟣 Steam Tool KoalaSleep (Closed Pre Alpha Stage): [Click me!](https://github.com/KOALAaufPILLEN/KoalaSleep)
 
 ## 💊 Social Media
-Steam:                           https://steamcommunity.com/id/KOALAaufPILLEN <br>
-Website:                         http://www.KOALAaufPILLEN.de <br>
+🟣 Steam:                        https://steamcommunity.com/id/KOALAaufPILLEN <br>
+🟣 Website:                      http://www.KOALAaufPILLEN.de <br>
 ✖️ Not in Use ✖️ Twitch:        https://www.twitch.tv/KOALAaufPILLEN <br>
 ✖️ Not in Use ✖️ Facebook:      https://www.facebook.com/KOALAaufPILLENx/  <br>
 ✖️ Not in Use ✖️ X (Twitter):   https://twitter.com/KOALAaufPILLEN  <br>
 ✖️ Not in Use ✖️ Youtube:       https://www.youtube.com/KOALAaufPILLEN <br>
 ✖️ Not in Use ✖️ Instagram:     https://www.instagram.com/KOALAaufPILLENx/
 
-## 💊 PC Specs
+## 💊 Gaming Laptop Specs
 
 ### ONE GAMING Laptop Operator X7
-- RAM: 64GB (2x 32GB DDR5-4800)
-- Storage: 6TB (3x 2TB WD Black SN850X)
-- Processor: Intel I9-13900HX
-- Graphics Card: Nvidia 4080 - 12GB GDDR6
+🟣 Processor: Intel I9-13900HX<br>
+🟣 RAM: 64GB (2x 32GB DDR5-4800)<br>
+🟣 Storage: 6TB (3x 2TB WD Black SN850X)<br>
+🟣 Graphics Card: Nvidia 4080 - 12GB GDDR6<br>
+
+### ROG Strix G712LWS
+🟣 Processor: Intel I7-10875H<br>
+🟣 RAM: 32GB (2x 16GB DDR5-4800)<br>
+🟣 Storage: 2TB (2x 1TB WD Black SN850X)<br>
+🟣 Graphics Card: Nvidia 2070 Super - 8GB GDDR6<br>
+
+and more visit https://www.koalaaufpillen.de/
 
 ## 💊 Spotify
 
