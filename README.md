@@ -34,6 +34,6 @@ and more visit https://www.koalaaufpillen.de/
 ## 💊 Spotify
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1166828714&width=875)](https://open.spotify.com/user/1166828714)
-
+[GitHub Contribution Grid](https://raw.githubusercontent.com/user-attachments/assets/e0705dae-fd88-4a10-87e7-b9ab2c8f1cc9/68747470733a2f2f736e616b656769746875622e70616765732e6465762f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667)
 ![68747470733a2f2f736e616b656769746875622e70616765732e6465762f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667](https://github.com/user-attachments/assets/e0705dae-fd88-4a10-87e7-b9ab2c8f1cc9)
 
