@@ -4,6 +4,7 @@
 🟣 Nothing
 
 ## 💊 Working on
+🟣 KOALAOptimizer: ([Click me!](https://github.com/KOALAaufPILLEN/KOALAOptimizer))
 🟣 Steam Tool KoalaSleep (Closed Pre Alpha Stage): [Click me!](https://github.com/KOALAaufPILLEN/KoalaSleep)
 
 ## 💊 Social Media
